@@ -1,0 +1,27 @@
+[
+  {
+    "id": "andina",
+    "nombre": "Andina Logística",
+    "dominio": "andinalogistica.ejemplo",
+    "etapa": "nuevo",
+    "notas": []
+  },
+  {
+    "id": "sierra",
+    "nombre": "Sierra Alimentos",
+    "dominio": "sierraalimentos.ejemplo",
+    "etapa": "contactado",
+    "notas": [
+      { "fecha": "2026-10-20", "nota": "Correo a la directora de operaciones sobre tiempos de entrega." }
+    ]
+  },
+  {
+    "id": "puerto",
+    "nombre": "Puerto Textil",
+    "dominio": "puertotextil.ejemplo",
+    "etapa": "reunion",
+    "notas": [
+      { "fecha": "2026-10-22", "nota": "Reunión agendada con el CFO para el 3 de noviembre." }
+    ]
+  }
+]

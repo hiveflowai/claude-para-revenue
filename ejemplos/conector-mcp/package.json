@@ -1,0 +1,16 @@
+{
+  "name": "mini-crm-mcp",
+  "version": "1.0.0",
+  "description": "Conector MCP mínimo de ejemplo: un mini CRM en un archivo JSON",
+  "type": "module",
+  "bin": { "mini-crm-mcp": "server.js" },
+  "scripts": {
+    "start": "node server.js",
+    "inspector": "npx @modelcontextprotocol/inspector node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "zod": "^3.25.0"
+  },
+  "engines": { "node": ">=18" }
+}
